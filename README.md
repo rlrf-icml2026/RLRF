@@ -23,7 +23,7 @@
 
 ## Overview
 
-<p>This repository contains the official code for the paper “RLRF: Competitive Search Agent Design via Reinforcement Learning from Ranker Feedback” (arXiv: 2510.04096).  
+<p>This repository contains the official code for the paper “Strategic Content Optimization in Competitive Search: A Reinforcement Learning Approach.  
 RLRF is a methodology that aligns the LLM with the competitive ranking objective. Unlike traditional prompting-based methods, RLRF aligns LLMs with ranking objectives by learning directly from ranker feedback — the ordering of documents produced by a ranker. Using reinforcement learning techniques, the model learns to modify content in a way that consistently improves its rank in a competitive environment.</p>
 
 ---
