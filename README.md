@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">RLRF – Competitive Search Agent Design via Reinforcement Learning from Ranker Feedback</h1>
+    <h1 align="center">Strategic Content Optimization in Competitive Search: A Reinforcement Learning Approach</h1>
 </p>
 
 <p align="center">
